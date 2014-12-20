@@ -14,6 +14,7 @@
 		AF4B1FD61A43B16F0027C7F0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF4B1FD41A43B16F0027C7F0 /* LaunchScreen.xib */; };
 		AF4B1FE21A43B16F0027C7F0 /* iOSTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4B1FE11A43B16F0027C7F0 /* iOSTestTests.swift */; };
 		AF4B1FEC1A43B3320027C7F0 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF4B1FEB1A43B3320027C7F0 /* SagradaFamilia.jpeg */; };
+		AF5A5F8C1A45A55900926AD4 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF5A5F8B1A45A55900926AD4 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		AF4B1FE01A43B16F0027C7F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF4B1FE11A43B16F0027C7F0 /* iOSTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSTestTests.swift; sourceTree = "<group>"; };
 		AF4B1FEB1A43B3320027C7F0 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		AF5A5F8B1A45A55900926AD4 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 		AF4B1FC91A43B16E0027C7F0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AF5A5F8B1A45A55900926AD4 /* AlbertEinsteinStamp.jpg */,
 				AF4B1FEB1A43B3320027C7F0 /* SagradaFamilia.jpeg */,
 				AF4B1FCA1A43B16E0027C7F0 /* Info.plist */,
 			);
@@ -197,6 +200,7 @@
 			files = (
 				AF4B1FD11A43B16E0027C7F0 /* Main.storyboard in Resources */,
 				AF4B1FEC1A43B3320027C7F0 /* SagradaFamilia.jpeg in Resources */,
+				AF5A5F8C1A45A55900926AD4 /* AlbertEinsteinStamp.jpg in Resources */,
 				AF4B1FD61A43B16F0027C7F0 /* LaunchScreen.xib in Resources */,
 				AF4B1FD31A43B16E0027C7F0 /* Images.xcassets in Resources */,
 			);
@@ -411,6 +415,7 @@
 				AF4B1FE71A43B16F0027C7F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AF4B1FE81A43B16F0027C7F0 /* Build configuration list for PBXNativeTarget "iOSTestTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				AF4B1FEA1A43B16F0027C7F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
